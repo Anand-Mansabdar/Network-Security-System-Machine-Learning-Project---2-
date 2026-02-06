@@ -7,7 +7,9 @@ Requires-Dist: python-dotenv
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: pymongo
+Requires-Dist: pymongo[srv]==3.12
 Requires-Dist: certifi
+Requires-Dist: scikit-learn
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist
